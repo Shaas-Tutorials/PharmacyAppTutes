@@ -1,0 +1,16 @@
+C:\Users\Avi\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.RazorAssemblyInfo.cache
+C:\Users\Avi\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.RazorAssemblyInfo.cs
+C:\Users\Avi\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\Avi\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.AssemblyInfo.cs
+C:\Users\Avi\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Avi\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Avi\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Avi\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.deps.json
+C:\Users\Avi\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.runtimeconfig.json
+C:\Users\Avi\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.runtimeconfig.dev.json
+C:\Users\Avi\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.dll
+C:\Users\Avi\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.pdb
+C:\Users\Avi\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.RazorTargetAssemblyInfo.cache
+C:\Users\Avi\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.dll
+C:\Users\Avi\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.pdb
+C:\Users\Avi\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.csprojAssemblyReference.cache
